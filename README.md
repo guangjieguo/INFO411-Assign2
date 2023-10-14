@@ -8,8 +8,8 @@ This readme provides a brief sturcture to our project on heart disease data anal
  - [Modelling](#modelling)
    - We build our models based on the cleaned Cleveland dataset. We fine-tuned and compared several kinds of models, such as Decision tree, SVM, KNN, Random Forest, etc. Furthermore, those models are trained on the whole Cleveland dataset and tested on other locations’ imputed datasets.
  - [Dashboard](#dashboard) _Something Interesting!_
-   - [Interface of Heart Disease Diagnosis](#Interface-of-Heart-Disease-Diagnosis)
-   - [KNN Modelling](#KNN-modelling)
-   - [t-SNE](#t-SNE)
+   - Interface of Heart Disease Diagnosis
+   - KNN Modelling
+   - t-SNE
  - [Report](#report)
-   - A summary of our two weeks’ work.
+   - A summary of our work.
