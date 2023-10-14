@@ -1,5 +1,5 @@
 # INFO411-Assignment-2
-This readme provides a brief sturcture to our project on heart disease data analysis.
+This is the work from the group of Gregory, Guangjie and Mohan. This readme provides a brief sturcture to our project on heart disease data analysis.
 ## Content
  - [Visualization](#visualization)
    - In this part, we explore the statistical properties of the data. We build nice pictures to illustrate the properties of the data, such distribution of each feature and target, correlations between features and target, PCA, t-SNE, etc.
